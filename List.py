@@ -1,0 +1,9 @@
+ls=[11,22,33,44,55,66,77,88,99,00]
+print(ls[4:8])
+print(ls[:6])
+print(ls[5:])
+print(ls[:])
+print(ls[1:])
+print(ls[:10])
+print(ls[::1])
+print(ls)
